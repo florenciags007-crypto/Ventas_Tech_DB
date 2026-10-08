@@ -84,7 +84,7 @@ Ventas_Tech_DB/
 - Acceso a la base de datos `Ventas_Tech_DB`
 
 ### Para Power Query:
-- **Excel 2016+** o **Microsoft 365**
+- **Microsoft 365**
 
 ---
 
