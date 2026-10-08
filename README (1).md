@@ -12,6 +12,22 @@ El objetivo es:
 - Monitorear la salud de la base de clientes
 
 ---
+Empezá Ahora
+¿Cómo empezar en 3 pasos?
+
+Descargá este repositorio (botón verde "Code" → Download ZIP)
+Abrí tu cliente SQL (SSMS, MySQL Workbench, etc.)
+Ejecutá los archivos en orden:
+sql/01_crear_base_datos.sql → Crea la BD
+sql/02_crear_tablas.sql → Crea las tablas
+sql/03_insertar_datos_muestra.sql → Carga datos de ejemplo
+sql/analisis/ventas_detalladas.sql → ¡Ves tu primer análisis!
+
+Listo. Ya tenés datos funcionando.
+
+¿Querés visualizarlos? Abrí Power BI y conectá a la base de datos. Todos los dashboards están en power_bi/.
+
+---
 
 ## 🛠️ Herramientas Utilizadas
 
