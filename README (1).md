@@ -36,7 +36,6 @@ Listo. Ya tenés datos funcionando.
 | Herramienta | Uso |
 |------------|-----|
 | **SQL Server / MySQL** | Gestión de base de datos `Ventas_Tech_DB` |
-| **Excel** | Análisis exploratorio y validación de datos |
 | **Power Query** | ETL - Extracción, transformación y limpieza de datos |
 | **Power BI** | Dashboards y visualizaciones interactivas |
 | **Git** | Control de versiones de scripts y documentación |
