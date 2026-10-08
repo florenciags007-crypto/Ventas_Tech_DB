@@ -234,7 +234,6 @@ ORDER BY total_venta DESC;
 ## 👤 Autor
 
 **Florencia G.**  
-Curso de Data Analytics - Coderhouse  
 Proyecto: RetailPro v1.0
 
 ---
