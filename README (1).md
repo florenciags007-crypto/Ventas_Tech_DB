@@ -16,7 +16,9 @@ Empezá Ahora
 ¿Cómo empezar en 3 pasos?
 
 Descargá este repositorio (botón verde "Code" → Download ZIP)
+
 Abrí tu cliente SQL (SSMS, MySQL Workbench, etc.)
+
 Ejecutá los archivos en orden:
 sql/01_crear_base_datos.sql → Crea la BD
 sql/02_crear_tablas.sql → Crea las tablas
